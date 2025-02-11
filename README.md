@@ -1,0 +1,3 @@
+This repository demonstrates a common JavaScript error: unexpected behavior due to null values.  The `bug.js` file contains the flawed function, which fails to gracefully handle null inputs. The `bugSolution.js` file provides the corrected version, showing proper null checks before operations.
+
+This simple example highlights a critical aspect of defensive programming in JavaScript – proactively handling edge cases like null and undefined values to prevent unexpected errors and crashes.
